@@ -1,21 +1,28 @@
-# Dereverberation Demo
+# VOISACE AI Dereverberation Demo
 
-Official before-and-after audio-visual demonstration of Voisace AI's dereverberation technology.
+State-of-the-art speech dereverberation powered by deep learning.
 
-## 📺 Video Demonstration
+## 🎬 Watch Demo
 
-<video width="100%" height="auto" controls poster="Cover.png">
-  <source src="Voisace_Dereverb_Demo_01.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![VOISACE AI Demo](cover.png)](Voisace_Dereverb_Demo_01.mp4)
+
+> Click the image above to watch the demo video.
 
 ---
 
-## 🎧 About This Demo
-This demo showcases our advanced deep learning model's ability to eliminate severe room reverberation, echoes, and late reflections, restoring crystal-clear voice clarity.
+## ✨ Features
 
-* **Technology:** Voisace AI Speech Enhancement
-* **Application:** Speech Dereverberation, Audio Post-Production, Smart Devices
-* **Official Website:** [voisace.com](https://voisace.com)
+- Real-time reverberation suppression
+- Echo and late reflection removal
+- Speech clarity restoration
+- Optimized for embedded AI hardware
 
-© 2026 VOISACE AI. All rights reserved.
+---
+
+## 🌐 Links
+
+- Website: https://voisace.com
+- LinkedIn: https://linkedin.com/company/voisace
+- YouTube: https://youtube.com/@VoisaceAcoustic
+
+© 2026 VOISACE AI
