@@ -4,7 +4,7 @@ Official before-and-after audio demonstration of VOISACE AI speech dereverberati
 
 ## 🎬 Watch Demo
 
-[![VOISACE AI Dereverberation Demo](cover.png)](https://youtu.be/NwGYUFAm0M8)
+[![VOISACE AI Dereverberation Demo](Cover.png)](https://youtu.be/NwGYUFAm0M8)
 
 ▶ Click the image above to watch the full demo video on YouTube.
 
