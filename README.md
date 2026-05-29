@@ -4,8 +4,8 @@ Official before-and-after audio-visual demonstration of Voisace AI's dereverbera
 
 ## 📺 Video Demonstration
 
-<video width="100%" height="auto" controls poster="cover.png">
-  <source src="demo.mp4" type="video/mp4">
+<video width="100%" height="auto" controls poster="Cover.png">
+  <source src="Voisace_Dereverb_Demo_01.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
