@@ -1,46 +1,151 @@
 # VOISACE AI Dereverberation Demo
 
-Official before-and-after audio demonstration of VOISACE AI speech dereverberation technology.
+<p align="center">
+  <img src="Cover.png" alt="Voisace AI Dereverberation" width="800">
+</p>
 
-## 🎬 Watch Demo
-
-[![VOISACE AI Dereverberation Demo](Cover.png)](https://youtu.be/NwGYUFAm0M8)
-
-▶ Click the image above to watch the full demo video on YouTube.
+Advanced AI-powered speech enhancement technology for removing reverberation and restoring speech clarity in real-world acoustic environments.
 
 ---
 
-## 🎧 About This Demo
+## Demo Videos
 
-This demo showcases our deep learning speech enhancement engine removing:
+### Demo 01 – AI Dereverberation Processing
 
-* Severe room reverberation
-* Echoes and late reflections
-* Muddy and unclear speech artifacts
+Watch the original demonstration video stored in this repository:
 
-The result is significantly improved speech intelligibility and voice clarity.
+[▶ View Demo 01](./Voisace_Dereverb_Demo_01.mp4)
 
-### Applications
+This demo demonstrates Voisace's real-time AI dereverberation technology for improving speech intelligibility in reverberant acoustic environments.
 
-* AI Voice Devices
-* Smart Speakers
-* Meeting Systems
+---
+
+### Demo 02 – AI Dereverberation Spectrogram Analysis
+
+[![Voisace AI Dereverberation Demo](Dere2.png)](https://youtu.be/1knoUV_MIjg)
+
+▶ Click the image above to watch the full demo on YouTube.
+
+This demonstration showcases spectrogram comparisons before and after processing, highlighting the effectiveness of Voisace's Acoustic AI recovery engine.
+
+YouTube:
+https://youtu.be/1knoUV_MIjg
+
+---
+
+## Overview
+
+Reverberation caused by room reflections can significantly degrade speech quality and reduce intelligibility.
+
+The Voisace AI Dereverberation Engine utilizes advanced Acoustic AI algorithms to suppress reverberation while preserving speech naturalness and clarity.
+
+Our technology is designed for real-time deployment on embedded systems, communication devices, conferencing products, and intelligent audio platforms.
+
+---
+
+## Key Features
+
+* AI Speech Dereverberation
+* Real-Time Acoustic Recovery
+* Speech Intelligibility Enhancement
+* Low-Latency Processing
+* Embedded AI Deployment
+* Edge Computing Optimized
+* DSP + AI Hybrid Architecture
+* Conference Audio Enhancement
+* Smart Microphone Integration
+* Voice Communication Optimization
+
+---
+
+## Applications
+
+### Smart Conferencing Systems
+
+Improve meeting audio quality in reverberant rooms.
+
+### AI Voice Assistants
+
+Increase speech recognition accuracy and user experience.
+
+### Smart Microphones
+
+Deliver cleaner speech capture in challenging acoustic environments.
+
+### VoIP & Communication Devices
+
+Enhance voice transmission quality under real-world conditions.
+
+### Broadcasting & Content Creation
+
+Improve recorded speech quality for professional production workflows.
+
+### Embedded Audio Products
+
+Deploy directly on edge devices with optimized computational efficiency.
+
+---
+
+## Technology Highlights
+
+* Speech Enhancement
+* Dereverberation
+* Echo Reduction
+* Acoustic Recovery
+* AI Audio Processing
+* Voice Enhancement
+* Beamforming Integration
 * Embedded Acoustic AI
-* Audio Post-Processing
-* Real-Time Speech Enhancement
-
-### Technology
-
-* Deep Neural Network (DNN)
-* Real-Time AI Inference
-* Embedded Acoustic Processing
-* Low-Latency Speech Enhancement
+* Real-Time DSP Processing
 
 ---
 
-## 🌐 Links
+## Repository Contents
 
-* Website: https://voisace.com
-* YouTube: https://youtu.be/NwGYUFAm0M8
+```text
+README.md
+Cover.png
+Dere2.png
+Voisace_Dereverb_Demo_01.mp4
+LICENSE
+```
 
-© 2026 VOISACE AI. All rights reserved.
+---
+
+## About Voisace
+
+Voisace develops Embedded Acoustic AI solutions for next-generation audio products.
+
+Our technologies include:
+
+* Speech Enhancement
+* Noise Reduction
+* Echo Cancellation (AEC)
+* Dereverberation
+* Beamforming
+* Voice Activity Detection (VAD)
+* Acoustic Event Detection (AED)
+* AI Audio Intelligence
+
+Designed for edge deployment, Voisace solutions help manufacturers integrate advanced audio intelligence into communication devices, conferencing systems, smart microphones, AI assistants, and industrial products.
+
+---
+
+## Connect With Us
+
+Website:
+https://www.voisace.com
+
+LinkedIn:
+https://www.linkedin.com/company/voisace
+
+YouTube:
+https://www.youtube.com/@Voisace
+
+---
+
+## License
+
+Licensed under the Apache License 2.0.
+
+See the LICENSE file for details.
