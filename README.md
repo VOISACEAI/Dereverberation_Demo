@@ -4,7 +4,7 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 
 ## Quick Links
 
-[Watch on YouTube](https://www.youtube.com/watch?v=gOCeK8zktlA) | [Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=xqscYOHvPAE) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -19,13 +19,13 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 | Technology | Dereverberation |
 | Language | Arabic |
 | Scene | Real-world Noise |
-| Orientation | Portrait |
-| Source file | arabic_1_reverb_rt60_0.2s_snr0dB_noise_Noise_diffuse_diffuse_2Mi... (MP4) |
-| Asset ID | VIN-88AD60F3B3 |
+| Orientation | Landscape |
+| Source file | arabic_1_reverb_rt60_0.2s_snr5dB_noise_clips_aJz4OZ-nC10_c0_clip... (MP4) |
+| Asset ID | VIN-AFD30ADD13 |
 
 ## Video
 
-The public demo is available here: https://www.youtube.com/watch?v=gOCeK8zktlA
+The public demo is available here: https://www.youtube.com/watch?v=xqscYOHvPAE
 
 ## Publishing
 
