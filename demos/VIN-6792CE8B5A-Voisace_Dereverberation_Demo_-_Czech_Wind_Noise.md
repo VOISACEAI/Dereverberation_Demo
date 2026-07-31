@@ -4,7 +4,7 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=-rksd_bthXQ) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 | Orientation | Portrait |
 | Source file | czech_1_reverb_rt60_0.8s_snr-5dB_noise_d_Wind_Noise_wind_noise_w... (MP4) |
 | Asset ID | VIN-6792CE8B5A |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=-rksd_bthXQ
 
 ## Publishing
 
