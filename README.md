@@ -1,5 +1,12 @@
 # Voisace Dereverberation Demo - Arabic Real-world Noise
 
+
+<!-- VAMP_REPOSITORY_COVER_START -->
+<p align="center">
+  <img src="GitHub_Cover.png" alt="Voisace AI Dereverberation Demo" width="680">
+</p>
+<!-- VAMP_REPOSITORY_COVER_END -->
+
 This demo shows Voisace dereverberation reducing room echo and restoring speech clarity in real-world acoustic conditions.
 
 ## Quick Links
