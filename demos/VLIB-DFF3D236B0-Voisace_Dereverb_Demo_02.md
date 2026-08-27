@@ -4,7 +4,7 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 
 ## Quick Links
 
-[Voisace](https://www.voisace.com)
+[Watch on YouTube](https://www.youtube.com/watch?v=zbfUHwNYY4M) | [Voisace](https://www.voisace.com)
 
 ## What To Look For
 
@@ -22,6 +22,10 @@ This demo shows Voisace dereverberation reducing room echo and restoring speech 
 | Orientation | Unknown |
 | Source file | Voisace_Dereverb_Demo_02.mp4 |
 | Asset ID | VLIB-DFF3D236B0 |
+
+## Video
+
+The public demo is available here: https://www.youtube.com/watch?v=zbfUHwNYY4M
 
 ## Publishing
 
